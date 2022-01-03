@@ -4,10 +4,11 @@ I am a web developer and performed this research in May 2021 for my organization
 
 I have compared them from a web developer's point of view and provided medals(Gold, Silver, Bronze) which is purely based on my understanding and my scenario, it can be different for you.
 
-**Sections:**
+**Table of Content:**
 - [Comparison](#comparison)
 - [Medal Tally](#medal-tally)
 - [Conclusion](#conclusion)
+- [Articles](#articles)
 
 
 ## Comparison <a name="comparison"></a>
@@ -344,3 +345,8 @@ SEO can be achieved like other SPA frameworks but not as simple as a PHP website
 ## Conclusion <a name="conclusion"></a>
 
 As a developer, for my use case, I found React Native better so I went for that and created a sample React Native App: [Harry Potter Dictionary](https://github.com/ShivamS136/harry-potter-dictionary) with [web support](https://github.com/ShivamS136/hp-dict-web-demo). Now my organization is working on replacing some modules in android with React Native sub-apps.
+
+---
+
+## Articles <a name="articles"></a>
+For this research I've read some articles, which can be found [here](https://github.com/ShivamS136/hybrid-app-comparison/blob/main/articles.md). You can also have a look at them.
