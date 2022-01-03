@@ -7,6 +7,7 @@ I have compared them from a web developer's point of view and provided medals(Go
 **Sections:**
 - [Comparison](#comparison)
 - [Medal Tally](#medal-tally)
+- [Cheat sheet](#cheatsheet)
 - [Conclusion](#conclusion)
 - [Articles](#articles)
 - [How to Contribute to this](#htctt)
@@ -344,6 +345,11 @@ SEO can be achieved like other SPA frameworks but not as simple as a PHP website
 |React Native|12|11|0|58|
 |Ionic|9|7|7|48|
 |Flutter|10|7|6|52|
+
+---
+
+## Cheat sheet <a name="cheatsheet"></a>
+You can find the cheat sheet of this article [here](https://github.com/ShivamS136/hybrid-app-comparison/blob/main/cheatsheet.md). This has just the medals awarded for each attribute and the final medal tally and score.
 
 ---
 
