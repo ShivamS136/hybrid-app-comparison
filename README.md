@@ -4,11 +4,12 @@ I am a web developer and performed this research in May 2021 for my organization
 
 I have compared them from a web developer's point of view and provided medals(Gold, Silver, Bronze) which is purely based on my understanding and my scenario, it can be different for you.
 
-**Table of Content:**
+**Sections:**
 - [Comparison](#comparison)
 - [Medal Tally](#medal-tally)
 - [Conclusion](#conclusion)
 - [Articles](#articles)
+- [How to Contribute to this](#htctt)
 
 
 ## Comparison <a name="comparison"></a>
@@ -39,6 +40,8 @@ We will be comparing all the three options [**React Native**](https://reactnativ
 - [OTA(Over the air) Update](#ota)
 - [SEO](#seo)
 
+---
+
 ### Language <a name="language"></a>
 |Framework|Language|Medal|
 |--|--|--|
@@ -53,6 +56,7 @@ Ionic and React Native uses JS which matches with the tech stack used by a web d
 ---
 ### Learning Curve <a name="learning-curve"></a>
 Time required to learn (for Web Developers):
+
 |Framework|Time to Learn|Medal|
 |--|--|--|
 |React Native|Low (React Dev), Medium (other Web Dev)|🥈|
@@ -300,11 +304,11 @@ I conducted a poll on LinkedIn for the same, but with a short description of my 
 
 Total Votes: 95
 
-[Public Voting](https://www.linkedin.com/posts/shivams136_hybridweb-hybridnative-rnd-activity-6802937489939165184-4VOq)
+[**Public Voting:**](https://www.linkedin.com/posts/shivams136_hybridweb-hybridnative-rnd-activity-6802937489939165184-4VOq)
 
 ![Public Poll Results](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9r5d9pi266jwqht66hcq.png)
 
-[Technical group Voting](https://www.linkedin.com/feed/update/urn:li:activity:6802932767106703360)
+[**Technical group Voting:**](https://www.linkedin.com/feed/update/urn:li:activity:6802932767106703360)
 
 ![Group Poll Result](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kxt3jtjxjj8nuzae2eqy.png)
 
@@ -322,6 +326,7 @@ Total Votes: 95
 ---
 ### SEO <a name="seo"></a>
 I know, I'm not that good at this point but still mentionable.
+
 |Framework|SEO|Medal|
 |--|--|--|
 |React Native|Same like React App (Doable)|🥈|
@@ -349,4 +354,11 @@ As a developer, for my use case, I found React Native better so I went for that 
 ---
 
 ## Articles <a name="articles"></a>
-For this research I've read some articles, which can be found [here](https://github.com/ShivamS136/hybrid-app-comparison/blob/main/articles.md). You can also have a look at them.
+For this research, I've read some articles, which can be found [here](https://github.com/ShivamS136/hybrid-app-comparison/blob/main/articles.md). You can also have a look at them.
+
+---
+
+## How to Contribute to this <a name="htctt"></a>
+You can simply create your valuable pull request to [this Github repo](https://github.com/ShivamS136/hybrid-app-comparison) with an optional [issue](https://github.com/ShivamS136/hybrid-app-comparison/issues) having the detail of the changes, I'll merge them and modify [this article](https://dev.to/shivams136/hybrid-app-development-comparison-among-react-native-ionic-and-flutter-1lb) as well.
+
+You can start a [discussion](https://github.com/ShivamS136/hybrid-app-comparison/discussions) as well to discuss with other community members.
