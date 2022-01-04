@@ -4,6 +4,8 @@ I am a web developer and performed this research in May 2021 for my organization
 
 I have compared them from a web developer's point of view and provided medals(Gold, Silver, Bronze) which is purely based on my understanding and my scenario, it can be different for you.
 
+So get ready for **React Native vs Ionic vs Flutter** 🎆
+
 **Sections:**
 - [Comparison](#comparison)
 - [Medal Tally](#medal-tally)
@@ -11,6 +13,8 @@ I have compared them from a web developer's point of view and provided medals(Go
 - [Conclusion](#conclusion)
 - [Articles](#articles)
 - [How to Contribute to this](#htctt)
+
+---
 
 
 ## Comparison <a name="comparison"></a>
